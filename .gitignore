@@ -57,3 +57,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# nothing in build should be anything but auto genrated
+build
